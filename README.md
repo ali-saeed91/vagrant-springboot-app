@@ -18,7 +18,7 @@ Vagrant is a "Infrastructure as a code" machine which contains all the dependenc
   6) Installing Gradle for installing the springboot application which contains features of maven and ant required for Java application packages.
   7) Cloning the application from https://github.com/spring-projects/spring-petclinic.git
   8) Installing the application along with running JUnit tests and Checkstyle testing
-  9) Running the application in the background and forwarded on localhost:8080
+  9) Running the application in the background and forwarded on localhost:8080 and 8081
 
 <b>TO TEST IF THE BUILD IS SUCCESSFUL AND APP IS RUNNING DO FOLLOWING:</b>
 
