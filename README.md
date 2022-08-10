@@ -4,7 +4,7 @@ Vagrant is a "Infrastructure as a code" machine which contains all the dependenc
 
 <b>IMPORTANT STEP#1: PLEASE CREATE AN EMPTY FOLDER NAMED "shared" NEXT TO  Vagrantfile AS ITS REQUIRED TO RUN </b>
 
-<b>IMPORTANT STEP#2: PLEASE DELETE THE ".vagrant" FOLDER AND DO THE FOLLOWING COMMANDS</b>
+<b>IMPORTANT STEP#2: PLEASE DELETE THE ".vagrant" FOLDER AND DO "vagrant destroy" IN WORK DIRECTORY AND THE FOLLOWING COMMANDS</b>
 
 <code>vagrant init</code>
 
