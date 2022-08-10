@@ -24,7 +24,7 @@ Vagrant is a "Infrastructure as a code" machine which contains all the dependenc
 
 <b>BROWSER:</b>
 
-<code>http:localhost:8081/</code>
+<code>http://localhost:8081/</code>
 
 
 <b>TERMINAL:</b>
